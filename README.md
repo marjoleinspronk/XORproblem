@@ -21,7 +21,7 @@ Below is a visualization of the neural network that was used for the scripts in 
 and one output node that can take value 0 or 1.  
 
 Neural nets were trained with PyTorch, Tensorflow Eager (TFE) and Keras. 
-In contrast to the "classic" TensorFlow, TensorFlow's eager execution evaluates operations immediately, without having to build the graph first, similar to PyTorch. This makes it easy to try out different things and inspect your graph while creating it.  
+In contrast to the "classic" TensorFlow, TensorFlow's eager execution evaluates operations immediately, without having to build the graph first, similar to PyTorch. This makes it easy to try out different things and inspect your graph while building it.  
 
 <p align="center">
   <img src="images/NetIllustration.png" width="400" title="Model">
